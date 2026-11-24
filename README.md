@@ -1,4 +1,4 @@
 # Term Assignment
 
-Your Name:
-Your Student Number:
+Your Name: Trent Cote
+Your Student Number: A01487770
